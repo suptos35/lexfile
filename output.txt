@@ -1,0 +1,56 @@
+Header file 
+import math
+
+if started
+else started
+while started
+print
+read
+array type
+factorial function
+oddeven function
+leapyear function
+palindrome function
+power function
+prime function
+max function
+gcd function
+lcm function
+try block
+catch block
+Class Name = myClass
+<>
+
+[[[
+]]]
+[
+]
+|
+integer type
+character type
+float type
+plus operator
+minus operator
+multiply operator
+divide operator
+mod operator
+and operator
+or operator
+xor operator
+gt operator
+lt operator
+sine operator
+cosine operator
+tangent operator
+logarithm operator
+sqrt operator
+
+MAIN Function started
+
+Single comment =  This is a single-line comment
+
+Multi comment=  This is a multi-line comment
+
+Variable: a_variable
+
+Number: 123

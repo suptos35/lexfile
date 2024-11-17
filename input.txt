@@ -1,0 +1,49 @@
+import math
+IF
+ELSE
+WHILE
+DEKHAW
+PORO
+ARRAY
+FACTORIAL
+ODDEVEN
+LEAPYEAR
+PALINDROME
+POWER
+PRIME
+MAX
+GCD
+LCM
+TRY
+CATCH
+CLASS myClass
+<>
+
+[[[
+]]]
+[
+]
+|
+INTEGER
+CHARACTER
+FLOAT
+JOG
+BIOG
+GUN
+VAG
+MOD
+AND
+OR
+XOR
+GT
+LT
+SINE
+COSINE
+TANGENT
+LOGARITHM
+SQRT
+Shuru
+@ This is a single-line comment
+@@ This is a multi-line comment @@
+a_variable
+123
